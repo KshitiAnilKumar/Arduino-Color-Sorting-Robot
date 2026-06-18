@@ -116,16 +116,17 @@ Arduino-Color-Sorting-Robot/
 │
 ├── README.md
 │
-├── Code/
-│   └── color_sorter.ino
+├── Color-Sorter/
+└── Code/
+    └── color_sorter.ino
+└── Report/
+    └── Report.pdf
 │
 ├── Images/
 │   ├── Color-Sorter.jpeg
 │   ├── Setup.mp4
 │   └── Demo.mp4
-│
-└── Report/
-    └── Report.pdf
+
 ```
 
 ---
